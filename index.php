@@ -10,4 +10,3 @@ function time2 ()
 time1();
 echo "Test1";
 time2();
-echo "Test2";
