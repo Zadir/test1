@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<project version="0.15.1" title="Doc test1">
+  <file path="index.php" hash="471b882f7946e1ae7f7c4a1036cce9e4" package="Default">
+    <parse_markers>
+      <error line="1">No DocBlock was found for File index.php</error>
+      <error line="2">No DocBlock was found for Function time1</error>
+      <error line="6">No DocBlock was found for Function time2</error>
+    </parse_markers>
+    <function namespace="default" line="2" package="Default">
+      <name>time1</name>
+      <type>function</type>
+    </function>
+    <function namespace="default" line="6" package="Default">
+      <name>time2</name>
+      <type>function</type>
+    </function>
+  </file>
+  <file path="dummy.php" hash="76da8fe8d0c69985382be090eb826c37" package="Default">
+    <parse_markers>
+      <error line="1">No DocBlock was found for File dummy.php</error>
+    </parse_markers>
+  </file>
+  <package name="Default"/>
+  <namespace name="default"/>
+  <marker>todo</marker>
+  <marker>fixme</marker>
+</project>

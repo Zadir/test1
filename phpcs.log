@@ -1,0 +1,15 @@
+
+FILE: /home/www/site1/index.php
+--------------------------------------------------------------------------------
+FOUND 4 ERROR(S) AND 2 WARNING(S) AFFECTING 4 LINE(S)
+--------------------------------------------------------------------------------
+ 3 | WARNING | Consider putting global function "time1" in a static class
+ 3 | ERROR   | Opening brace should be on a new line
+ 4 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 8 | WARNING | Consider putting global function "time2" in a static class
+ 8 | ERROR   | Opening brace should be on a new line
+ 9 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+--------------------------------------------------------------------------------
+
+Time: 0 seconds, Memory: 1.75Mb
+
