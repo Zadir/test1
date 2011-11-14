@@ -8,5 +8,4 @@ function time2 ()
     sleep(3);
 }
 time1();
-
 time2();
